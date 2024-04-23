@@ -40,45 +40,45 @@ body{
 
 .carros-imagem-div-conteudo{
     width: 13%;
-}
-.carros-imagem-titulo{
-    padding: 20px 0;
-}
-.carros-titulo{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 14px 0;
-}
-
-.carros-imagem{
-    width: 100px;
-}
-
-.carros-imagems-icone{
-width: 14px;
-}
-
-.carros-imagem-div{
-    text-align: center;
-}
-
-.carros-titulo{
-    text-align: center;
-    padding: 50px;
-}
-
-.carros-imagem-todos{
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-}
-
-.rodape{
-    background-color: rgba(255, 255, 255, 0);
-    text-align: center;
-}
-
-.rodape-imagem{
-    height: 60px;
-    padding: 12px 0;
+    .carros-imagem-titulo{
+        padding: 20px 0;
+    }
+    .carros-titulo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 14px 0;
+    }
+    
+    .carros-imagem{
+        width: 100px;
+    }
+    
+    .carros-imagems-icone{
+    width: 14px;
+    }
+    
+    .carros-imagem-div{
+        text-align: center;
+    }
+    
+    .carros-titulo{
+        text-align: center;
+        padding: 50px;
+    }
+    
+    .carros-imagem-todos{
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+    }
+    
+    .rodape{
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+    }
+    
+    .rodape-imagem{
+        height: 60px;
+        padding: 12px 0;
+    }
 }
