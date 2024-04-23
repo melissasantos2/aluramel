@@ -12,7 +12,7 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 16px 0;
+    padding: 5px 0;
 }
 
 .cabecalho-imagem{
@@ -21,8 +21,8 @@ body{
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 50px;
-    font-size: 30px;
+    margin: 0 5px;
+    font-size: 5px;
 }
 
 .carros-imagem{
@@ -35,7 +35,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 14px 0;
+    padding: 5px 0;
 }
 
 .carros-imagem-div-conteudo{
@@ -47,15 +47,15 @@ body{
         display: flex;
         justify-content: center;
         align-items: center;
-        padding: 14px 0;
+        padding: 5px 0;
     }
     
     .carros-imagem{
-        width: 100px;
+        width: 5px;
     }
     
     .carros-imagems-icone{
-    width: 14px;
+    width: 5px;
     }
     
     .carros-imagem-div{
@@ -64,7 +64,7 @@ body{
     
     .carros-titulo{
         text-align: center;
-        padding: 50px;
+        padding: 5px;
     }
     
     .carros-imagem-todos{
@@ -78,7 +78,7 @@ body{
     }
     
     .rodape-imagem{
-        height: 60px;
-        padding: 12px 0;
+        height: 5px;
+        padding: 5px 0;
     }
 }
