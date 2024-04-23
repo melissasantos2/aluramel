@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+    
+.cabecalho {
+    background-color: #1100ff;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 16px 0;
+}
+
+.cabecalho-imagem{
+    width: 13%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 50px;
+    font-size: 30px;
+}
+
+.carros-imagem{
+    width: 10%;
+}
+
+.carros-imagem{
+    background-image: linear-gradient(#1100ff,#00d9ff);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.carros-imagem-div-conteudo{
+    width: 34%;
+}
+.carros-imagem-titulo{
+    padding: 20px 0;
+}
+.carros-titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.carros-imagem{
+    width: 160px;
+}
+
+.carros-imagems-icone{
+width: 24px;
+}
+
+.carros-imagem-div{
+    text-align: center;
+}
+
+.carros-titulo{
+    text-align: center;
+    padding: 50px;
+}
+
+.carros-imagem-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+}
