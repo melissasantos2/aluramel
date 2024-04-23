@@ -35,7 +35,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 14px 0;
 }
 
 .carros-imagem-div-conteudo{
@@ -48,7 +48,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 14px 0;
 }
 
 .carros-imagem{
@@ -56,7 +56,7 @@ body{
 }
 
 .carros-imagems-icone{
-width: 24px;
+width: 14px;
 }
 
 .carros-imagem-div{
