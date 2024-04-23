@@ -41,7 +41,7 @@ body{
 .carros-imagem-div-conteudo{
     width: 13%;
     .carros-imagem-titulo{
-        padding: 20px 0;
+        padding: 5%px 0;
     }
     .carros-titulo{
         display: flex;
@@ -69,7 +69,7 @@ body{
     
     .carros-imagem-todos{
         display: grid;
-        grid-template-columns: 20% 20% 20% 20% 20%;
+        grid-template-columns: 5% 5% 5% 5% 5%;
     }
     
     .rodape{
