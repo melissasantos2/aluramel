@@ -2,83 +2,88 @@
     margin: 0;
     padding: 0;
 }
-body{
+body {
     font-family: 'Poppins', sans-serif;
 }
-    
 .cabecalho {
-    background-color: #1100ff;
+    background-color: #195ac4;
     color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 5px 0;
+    padding: 24px 0;
 }
 
 .cabecalho-imagem{
-    width: 13%;
+    width: 10%;
 }
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 5px;
-    font-size: 5px;
+    margin: 0 16px;
+    font-size: 16px;
 }
 
-.carros-imagem{
-    width: 5%;
+.carros
+-imagem{
+    width: 25%;
 }
 
-.carros-imagem{
-    background-image: linear-gradient(#1100ff,#00d9ff);
-    color: white;
+.carros
+{
+    background-image: linear-gradient(#195ac4,#16CFF8);
+    color:white;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 5px 0;
+    padding: 24px 0;
 }
 
-.carros-imagem-div-conteudo{
-    width: 5%;
-    .carros-imagem-titulo{
-        padding: 5%px 0;
-    }
-    .carros-titulo{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        padding: 5px 0;
-    }
-    
-    .carros-imagem{
-        width: 5px;
-    }
-    
-    .carros-imagems-icone{
-    width: 5px;
-    }
-    
-    .carros-imagem-div{
-        text-align: center;
-    }
-    
-    .carros-titulo{
-        text-align: center;
-        padding: 5px;
-    }
-    
-    .carros-imagem-todos{
-        display: grid;
-        grid-template-columns: 5% 5% 5% 5% 5%;
-    }
-    
-    .rodape{
-        background-color: rgba(255, 255, 255, 0);
-        text-align: center;
-    }
-    
-    .rodape-imagem{
-        height: 5px;
-        padding: 5px 0;
-    }
+.carros
+-div-conteudo{
+    width: 35%;
+}
+
+
+.carros
+-titulo{
+    padding: 24px 0;
+}
+
+.carros{
+    padding: 24px 0;
+}
+.carros-imagem{
+    width: 120px;
+}
+
+.carros-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
+
+.carros-div{
+    text-align: center;
+    padding: 16px 0;
+}
+
+.carros-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.carros-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+   
 }
